@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\SubstitutieMonoalfabetica\SubstitutieMonoalfabetica\bin\Debug\SubstitutieMonoalfabetica.exe.config
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\SubstitutieMonoalfabetica\SubstitutieMonoalfabetica\bin\Debug\SubstitutieMonoalfabetica.exe
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\SubstitutieMonoalfabetica\SubstitutieMonoalfabetica\bin\Debug\SubstitutieMonoalfabetica.pdb
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\SubstitutieMonoalfabetica\SubstitutieMonoalfabetica\obj\Debug\SubstitutieMonoalfabetica.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\SubstitutieMonoalfabetica\SubstitutieMonoalfabetica\obj\Debug\SubstitutieMonoalfabetica.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\SubstitutieMonoalfabetica\SubstitutieMonoalfabetica\obj\Debug\SubstitutieMonoalfabetica.exe
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\SubstitutieMonoalfabetica\SubstitutieMonoalfabetica\obj\Debug\SubstitutieMonoalfabetica.pdb
